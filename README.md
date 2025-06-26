@@ -26,7 +26,7 @@ i’m a recent uoft grad with an interest in ethical health applications for mac
 
 ## 🌐 more about me
 - i love fun terminal aesthetics (vscode catppuccin frappe) and silly names.
-- you can find me at [katarinavucic.info](http://katarinavucic.info)
+- you can find me at [katarinavucic.info](https://katarinavucic.info)
 
 ---
 
